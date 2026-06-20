@@ -104,7 +104,7 @@ carbonsense/
 ### 1. Clone & Install
 
 ```bash
-git clone https://github.com/your-username/carbonsense.git
+git clone https://github.com/Kritansh-Tank/CarbonSense.git
 cd carbonsense
 npm install
 ```
